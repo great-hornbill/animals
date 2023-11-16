@@ -1,1 +1,4 @@
 # animals
+
+* giraffe
+* elephant
